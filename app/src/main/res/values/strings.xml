@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DiningHall</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="dining_hall_prompt">Choose a dining hall</string>
+    <string-array name="dining_hall_array">
+        <item>Cook</item>
+        <item>Becker</item>
+        <item>Keeton</item>
+        <item>Rose</item>
+        <item>Bethe</item>
+        <item>RPCC</item>
+        <item>Appel</item>
+        <item>Risley</item>
+        <item>104 West!</item>
+        <item>Okenshields</item>
+    </string-array>
+
+    <string name="meal_prompt">Choose a dining hall</string>
+    <string-array name="meal_array">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>
